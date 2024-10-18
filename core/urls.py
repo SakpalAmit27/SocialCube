@@ -1,9 +1,9 @@
-from django.urls import path 
+from django.urls import path
 #setting up our urls #
-from . import views;
+from . import views
 #index is the main url #
 
-urlPatterns = [
-    path('',views.index,name=index)
+urlpatterns = [
+    path('',views.index,name='index')
     
 ]
