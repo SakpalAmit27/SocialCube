@@ -7,5 +7,5 @@ from django.http import HttpResponse
 #creating the functionm for index 
 
 def index(request):
-    return HttpResponse('<h1>Welcome to SocialCube</h1 ')
+    return HttpResponse('<h1>Welcome to SocialCube</h1>')
     
