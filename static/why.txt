@@ -1,2 +1,6 @@
 
 setting up of static here 
+
+images and assets will be inside this folder so we can link them when the time comes 
+
+this is similar to <img src> however in django this is how its done //
